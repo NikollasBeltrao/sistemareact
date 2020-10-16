@@ -56,7 +56,7 @@ const Login = () => {
                         <Link to="/" className="iconeLi" style={{ color: "#28A5DA" }}><FaAt className="icone" /></Link>
                     </div>
                     <ul>
-                        <li className="g1">15/10/2020</li>
+                        <li className="g1">15/10/2020 mudou</li>
                         <li className="g2">Desenvolvido por Nikollas Beltrão</li>
                         <li className="g3">V3.0.0</li>
                     </ul>
